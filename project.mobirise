@@ -34,7 +34,17 @@
     "siteFonts": [],
     "uniqCompNum": 7,
     "versionPublish": "4.11.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<a style=\"float:none; position: fixed; right: -2px; top: 25%; display: block; z-index: 20000\" target=\"_blank\" href=\"https://planld01-test.bubbleapps.io/version-test/mobile_pickup/1589030991012x204660170342512400\"><img border=\"none\" src=\"https://my.setmore.com/webapp/images/bookappt/Setmore-Book-Now.png\" alt=\"Book an appointment with Cuts using SetMore\"/></a>",
+    "favicon": false,
+    "": "on",
+    "noImageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
